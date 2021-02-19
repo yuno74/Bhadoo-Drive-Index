@@ -57,13 +57,13 @@ const authConfig = {
 const uiConfig = {
 	"theme": "bhadoo_bootstrap", // Change doesn't works
 	"dark_mode": true, // switch between light or dark themes
-	"version": "2.0.1", // don't touch this one. get latest code using generator at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
-	"logo_image": false, // true if you're using image link in next option.
-	"logo_link_name": "Bhadoo Drive Index", // if logo is true then link otherwise just text for name
-	"contact_link": "https://t.telegram.ind.in/BhadooCloud", // Link to Contact Button on Menu
+	"version": "2.0", // don't touch this one. get latest code using generator at https://github.com/ParveenBhadooOfficial/Bhadoo-Drive-Index
+	"logo_image": true, // true if you're using image link in next option.
+	"logo_link_name": "https://telegra.ph/file/d5b2bbe00da21187e4cfe.png", // if logo is true then link otherwise just text for name
+	"contact_link": "https://t.me/AnimeChat74", // Link to Contact Button on Menu
 	"copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
-	"company_name": "Bhadoo Cloud", // Name next to copyright
-	"company_link": "https://t.telegram.ind.in/BhadooCloud", // link of copyright name
+	"company_name": "Anime Republic", // Name next to copyright
+	"company_link": "https://animerepublic74.xyz", // link of copyright name
 	"credit": true, // Set this to true to give us credit
 };
 
